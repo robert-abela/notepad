@@ -23,5 +23,7 @@ Future projects
 * [Web Security Academy | PortSwigger](https://portswigger.net/web-security)
 * [White papers Archive | Acunetix](https://www.acunetix.com/white-papers/)
 * [7 Vulnerable Applications for Practicing Pentesting](https://rafed.github.io/devra/posts/security/vulnerable-applications-for-practicing-pentesting/)
+* [Acunetix Web Vulnerability Scanner - Test websites](http://vulnweb.com/)
+* [Vulnerable Test Websites - Testsparker](http://testsparker.com/)
 * [Pentesting an API for Fun and Learning](https://securitygoat.medium.com/pentesting-an-api-for-fun-and-learning-b7b4801ff12)
   
