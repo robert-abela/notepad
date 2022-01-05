@@ -1,6 +1,6 @@
 # Don't just blame COVID, the many reasons why phishing is successful
-## Robert Abela (robert.abela@mcast.edu.mt)
-## MCAST IICT
+__Robert Abela (robert.abela@mcast.edu.mt)__  
+__MCAST IICT__
 
 __Abstract:__ Please provide an abstract of 150 to 250 words. The abstract should not contain any undefined abbreviations or unspecified references.
 
