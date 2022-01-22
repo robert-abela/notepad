@@ -26,4 +26,4 @@ Future projects
 * [Acunetix Web Vulnerability Scanner - Test websites](http://vulnweb.com/)
 * [Vulnerable Test Websites - Testsparker](http://testsparker.com/)
 * [Pentesting an API for Fun and Learning](https://securitygoat.medium.com/pentesting-an-api-for-fun-and-learning-b7b4801ff12)
-  
+* [vAPI – an open source lab environment to learn about API security](https://portswigger.net/daily-swig/introducing-vapi-an-open-source-lab-environment-to-learn-about-api-security)  
