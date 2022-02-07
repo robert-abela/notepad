@@ -9,6 +9,11 @@ Basically you need to:
 * Record crashes/bugs found
 * [Diagram](https://user-images.githubusercontent.com/7334931/145691258-b9d0c53f-8bb2-41f0-af38-f9580b2adc4d.png)
 
+### Fuzzing URL parsers
+* https://thehackernews.com/2022/01/researchers-find-bugs-in-over-dozen.html
+* https://claroty.com/2022/01/10/blog-research-exploiting-url-parsing-confusion/
+* https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf
+
 ### References
 * [[Paper] Fuzz testing: Beginner’s guide](https://doi.org/10.1109/ICODSE.2017.8285893)
 * [Build simple fuzzer - part 1](https://doi.org/10.1109/ICODSE.2017.8285893)
