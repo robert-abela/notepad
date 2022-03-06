@@ -21,7 +21,8 @@ If a mobile app uses certificate pinning, and DNS takes you elsewhere with a new
 
 
 ## A broswer plugin
-But with desktop browsers it won't happen. A browser plugin which pins the certs to your sensitive sites (eg banking) and complains when it changes could be a solution: - https://developer.mozilla.org/en-US/docs/Web/HTTP/Public_Key_Pinning
+But with desktop browsers it won't happen. A browser plugin which pins the certs to your sensitive sites (eg banking) and complains when it changes could be a solution: 
+- https://developer.mozilla.org/en-US/docs/Web/HTTP/Public_Key_Pinning
 - https://addons.mozilla.org/en-US/firefox/addon/certificate-pinner/
 - https://blog.wirelessmoves.com/2019/07/certificate-pinning-is-back-in-firefox.html
 
