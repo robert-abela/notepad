@@ -1,5 +1,8 @@
 # Cert Pinning Browser Plugin
 
+## Background
+- https://www.digicert.com/blog/certificate-pinning-what-is-certificate-pinning
+
 ## BGP Routing attacks
 BGP routing attacks seem to pop up over and over again over the years. A recent one from 2022 is below:
 ```
